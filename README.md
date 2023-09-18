@@ -2,6 +2,8 @@
 
 A boilerplate to kickstart your plugin development for [Webcrumbs](https://github.com/webcrumbs-community/webcrumbs), the open-source admin panel for React.
 
+If you find this project interesting or useful, please consider [giving it a star](https://github.com/webcrumbs-community/webcrumbs) to the **main repo**  ⭐️. Your support helps us make Webcrumbs better for everyone.
+
 ## Features
 
 - Pre-configured build scripts
